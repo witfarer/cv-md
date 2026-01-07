@@ -35,7 +35,7 @@ I am a [Midlands4Cities](http://midlands4cities.ac.uk)-funded PhD student in the
 
 ### [Your Job Title]
 
-[Your Company], [City, State]  
+[Your Company], [City, State]   
 [Month, Year] - Present
 
 - Developed and implemented [specific project or task].
