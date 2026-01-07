@@ -1,22 +1,35 @@
 ---
 title: CV
-author: Oliver Thurley
-email: example@gmail.com
-phone: "+447792------"
-web: thrly.com
-github: thrly
-linkedin: oliver-thurley
-updated: June 2025
+author: Andy Rogers
+email: ajr64@leicester.ac.uk
+phone: "+447403788875"
+updated: January 2026
 ---
 
-Dynamic and detail-oriented professional with a strong background in [Your Field/Industry]. Proven ability to manage projects, lead teams, and deliver results in fast-paced environments.
+I am a [Midlands4Cities](http://midlands4cities.ac.uk)-funded PhD student in the School of Archaeology and Ancient History, University of Leicester. My thesis examines the body and art in the indigenous Greater Antilles. Strong background in research, archaeological excavation, teaching and learning support, support work with adults with disabilities, customer service, and administrative work.
 
 ## Education
 
-### Bachelor of Science in [Your Major]
+### Doctor of Philosophy in Archaeology
 
-[Your University], [City, State]  
-[Month, Year] - [Month, Year]
+[University of Leicester], [Leicester, UK]
+[2020] - [ongoing]
+
+[PhD Title: _Bodily becomings in the Indigenous Greater Antilles c. 1000-1500 CE: A more-than-representational approach to power, mobility, hybridity, and the body_.]
+
+[Supervisors: Alice Samson, Jago Cooper, and Oliver Harris]
+
+### Master of Studies in Archaeology
+
+[St. Peter's College, University of Oxford], [Oxford, UK]
+[2017] - [2018]
+
+[Dissertation Title: _Colonial Corporealities: Assessing the Impacts of the Spanish Conquest on Maya Bodily Ontologies_.]
+
+### Bachelor of Arts with a Year Abroad in Archaeology
+
+[University of Leicester], [Leicester, UK]
+[2013] - [2017]
 
 ## Experience
 
@@ -27,6 +40,10 @@ Dynamic and detail-oriented professional with a strong background in [Your Field
 
 - Developed and implemented [specific project or task].
 - Collaborated with [team or department] to achieve [specific goal].
+
+`2024-`
+__Administrative Support, Sangha Properties, Leicester, UK__
+> Role supporting a property manager/developer with generating inventory reports pre- and post-occupancy. Required photography and the generation of reports using the Inventory Hive software and service.
 
 ### [Previous Job Title]
 
